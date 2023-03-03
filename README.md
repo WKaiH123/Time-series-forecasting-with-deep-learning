@@ -1,7 +1,13 @@
 # Time series forecasting with deep learning
 基于深度学习的时间序列预测工具包（测试版）
 
+Packaging.py: 用于时间序列预测封装的深度学习算法集成包，包含RNN, GRU, LSTM, MLP, TCN, BLS, XGBoost, ARIMA等模型
 
+test.ipynb: 调用模型的示例代码
+
+window_split.py: 用于划分时间窗口的代码
+
+energy_data.csv: 训练样本数据集
 ## 欢迎大家使用和指正！！！ （Welcome to use and correct！！！）   
 ### Email：wkaihan168@gmail.com
 
